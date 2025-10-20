@@ -1,5 +1,5 @@
 # Praktikum 5 : Javascript
-### Membuat Dasar Pemrograman Di Javascript "Hello World" , Operasi dasar aritmatika, Pembuatan Form, HTML DOM Pilihan menggunakan checkBox dengan perhitungan otomatis
+### Membuat Dasar Pemrograman di Javascript "Hello World" , Operasi dasar aritmatika, Pembuatan Form, HTML DOM Pilihan menggunakan CheckBox dengan perhitungan otomatis
 
 |                |                    |
 | ------------------ | ------------------ |
@@ -111,7 +111,7 @@ Pembuatan fungsi dan cara pemanggilannya
 
 |                |                     
 | ------------------|
-| Program Kedua Dasar Pemrograman di Javascript Operasi dasar aritmatika |                       
+| Program Kedua dasar pemrograman di Javascript operasi dasar aritmatika |                       
 
 **INPUT**
 ```
@@ -193,13 +193,8 @@ Penggunaan operator switch untuk seleksi kondisi
 
 
 |                |                     
-| ------------------|
-| Program Kedua Dasar Pemrograman di Javascript Operasi dasar aritmatika | 
-
-|                |                     
 | ------------------ | 
-|Program Ketiga Pembuatan Form 
-|Form Input Mengambil input angka dan menampilkan hasil ganjil/genap secara otomatis. |
+|Program Ketiga pembuatan form input mengambil input angka dan menampilkan hasil ganjil/genap secara otomatis. |
 
 **INPUT**
 ```
@@ -262,9 +257,10 @@ Form Button.
 **OUTPUT**
 -----
 
-Program KeEmpat HTML DOM
-CheckBox dengan Perhitungan Otomatis
-Membuat form daftar menu dengan harga yang otomatis dijumlahkan saat checkbox dipilih.
+
+|                |                     
+| ------------------ | 
+|Program Keempat HTML DOM CheckBox perhitungan Otomatis dengan membuat form daftar menu dengan harga yang otomatis dijumlahkan saat checkbox dipilih. |
 
 **INPUT**
 ```
@@ -307,9 +303,7 @@ Pilihan menggunakan checkBox dengan perhitungan otomatis
 
 
 ## Kesimpulan
-Dari praktikum ini, saya belajar dasar-dasar pemrograman JavaScript di dalam halaman web, mulai dari menampilkan teks sederhana hingga memanipulasi elemen HTML secara dinamis.
-Melalui berbagai contoh seperti alert, prompt, operasi aritmatika, seleksi kondisi, form input, dan HTML DOM, saya memahami bahwa JavaScript sangat berperan penting dalam membuat halaman web menjadi interaktif dan dinamis.
-Praktikum ini juga memberikan pemahaman awal mengenai bagaimana logika pemrograman, fungsi, dan event handling diterapkan langsung di dalam struktur HTML untuk menciptakan pengalaman pengguna yang lebih baik.
+Dari praktikum ini, Saya belajar dasar-dasar pemrograman JavaScript di dalam halaman web, mulai dari menampilkan teks sederhana hingga memanipulasi elemen HTML secara dinamis. Melalui berbagai contoh seperti alert, prompt, operasi aritmatika, seleksi kondisi, form input, dan HTML DOM, saya memahami bahwa JavaScript sangat berperan penting dalam membuat halaman web menjadi interaktif dan dinamis, praktikum ini juga memberikan pemahaman awal mengenai bagaimana logika pemrograman, fungsi, dan event handling diterapkan langsung di dalam struktur HTML untuk menciptakan pengalaman pengguna yang lebih baik.
 
 ## Terima Kasih
 
