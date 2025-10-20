@@ -14,9 +14,10 @@ Pilihan menggunakan checkBox dengan perhitungan otomatis
 Tugas ini merupakan hasil dari Praktikum Mata Kuliah Pemrograman Web 1 , dengan fokus utama pada pembuatan layout web sederhana menggunakan HTML dan CSS.
 Melalui praktikum ini, saya belajar bagaimana cara mengatur struktur halaman menggunakan elemen-elemen semantik seperti:
 ```
-<header>, <nav>, <section>, <article>, <aside>, dan <footer>,
-```
-serta memahami bagaimana konsep box model dan float property bekerja untuk membentuk layout yang rapi.
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
