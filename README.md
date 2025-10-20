@@ -23,9 +23,12 @@ Melalui berbagai contoh sederhana, saya belajar bagaimana JavaScript berinteraks
 
 ## Langkah-Langkah Praktikum
 
+|                |                     
+| ------------------ | 
+| Program Pertama digunakan untuk menampilkan teks Hello World menggunakan document.write() dan console.log().                                       | 
 
-
-
+**INPUT**
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -40,7 +43,6 @@ Melalui berbagai contoh sederhana, saya belajar bagaimana JavaScript berinteraks
     </script>
 </body>
 </html>
-
 
 Javascrip Dasar
 Pemakaian Alert sebagai property window.
@@ -57,7 +59,6 @@ Pemakaian Alert sebagai property window.
 </body>
 </html>
 
-
 Pemakaian method dalam objek
 <html>
 <head>
@@ -73,8 +74,6 @@ Pemakaian method dalam objek
     </script>
 </body>
 </html>
-
-
 
 Pemakaian Prompt
 <html>
@@ -104,12 +103,18 @@ Pembuatan fungsi dan cara pemanggilannya
 <body onload="pesan()">
 </body>
 </html>
+```
+
+**OUTPUT**
+-----
 
 
+|                |                     
+| ------------------|
+| Program Kedua Dasar Pemrograman di Javascript Operasi dasar aritmatika |                       
 
-
-Dasar Pemrograman Di Javascript
-Operasi dasar aritmatika
+**INPUT**
+```
 <html>
 <head>
     <title>contoh program javascript</title>
@@ -127,8 +132,6 @@ Operasi dasar aritmatika
     <input type="button" name="button1" value="arithmetic" onclick="test(9,4)">
 </body>
 </html>
-
-
 
 Seleksi kondisi (if..else)
 <html>
@@ -149,7 +152,6 @@ Seleksi kondisi (if..else)
     </script>
 </body>
 </html>
-
 
 Penggunaan operator switch untuk seleksi kondisi
 <html>
@@ -184,11 +186,23 @@ Penggunaan operator switch untuk seleksi kondisi
     <input type="button" name="button1" value="switch" onclick="test()">
 </body>
 </html>
+```
+
+**OUTPUT**
+-----
 
 
+|                |                     
+| ------------------|
+| Program Kedua Dasar Pemrograman di Javascript Operasi dasar aritmatika | 
 
-Pembuatan Form
-Form Input
+|                |                     
+| ------------------ | 
+|Program Ketiga Pembuatan Form 
+|Form Input Mengambil input angka dan menampilkan hasil ganjil/genap secara otomatis. |
+
+**INPUT**
+```
 <html>
 <head>
     <title>contoh program javascript</title>
@@ -243,8 +257,17 @@ Form Button.
     </script>
 </body>
 </html>
+```
 
+**OUTPUT**
+-----
 
+Program KeEmpat HTML DOM
+CheckBox dengan Perhitungan Otomatis
+Membuat form daftar menu dengan harga yang otomatis dijumlahkan saat checkbox dipilih.
+
+**INPUT**
+```
 HTML DOM
 Pilihan menggunakan checkBox dengan perhitungan otomatis
 <html>
@@ -277,5 +300,16 @@ Pilihan menggunakan checkBox dengan perhitungan otomatis
     <strong>Total Bayar: Rp. <input id="total" type="text" /></strong>
 </body>
 </html>
+```
 
+**OUTPUT**
+-----
+
+
+## Kesimpulan
+Dari praktikum ini, saya belajar dasar-dasar pemrograman JavaScript di dalam halaman web, mulai dari menampilkan teks sederhana hingga memanipulasi elemen HTML secara dinamis.
+Melalui berbagai contoh seperti alert, prompt, operasi aritmatika, seleksi kondisi, form input, dan HTML DOM, saya memahami bahwa JavaScript sangat berperan penting dalam membuat halaman web menjadi interaktif dan dinamis.
+Praktikum ini juga memberikan pemahaman awal mengenai bagaimana logika pemrograman, fungsi, dan event handling diterapkan langsung di dalam struktur HTML untuk menciptakan pengalaman pengguna yang lebih baik.
+
+## Terima Kasih
 
