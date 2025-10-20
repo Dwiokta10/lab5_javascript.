@@ -105,9 +105,6 @@ Pembuatan fungsi dan cara pemanggilannya
 </html>
 ```
 
-**OUTPUT**
------
-
 
 |                |                     
 | ------------------|
@@ -188,9 +185,6 @@ Penggunaan operator switch untuk seleksi kondisi
 </html>
 ```
 
-**OUTPUT**
------
-
 
 |                |                     
 | ------------------ | 
@@ -254,9 +248,6 @@ Form Button.
 </html>
 ```
 
-**OUTPUT**
------
-
 
 |                |                     
 | ------------------ | 
@@ -299,7 +290,7 @@ Pilihan menggunakan checkBox dengan perhitungan otomatis
 ```
 
 **OUTPUT**
------
+
 
 
 ## Kesimpulan
