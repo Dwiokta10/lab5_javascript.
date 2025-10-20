@@ -1,7 +1,5 @@
 # Praktikum 5 : Javascript
-
-membuat Dasar Pemrograman Di Javascript "Hello World" , Operasi dasar aritmatika, Pembuatan Form, HTML DOM
-Pilihan menggunakan checkBox dengan perhitungan otomatis
+### Membuat Dasar Pemrograman Di Javascript "Hello World" , Operasi dasar aritmatika, Pembuatan Form, HTML DOM Pilihan menggunakan checkBox dengan perhitungan otomatis
 
 |                |                    |
 | ------------------ | ------------------ |
@@ -11,8 +9,8 @@ Pilihan menggunakan checkBox dengan perhitungan otomatis
 |  _Mata Kuliah_ | Bahasa Pemrograman Web 1 |
 
 ## Deskripsi
-Tugas ini merupakan hasil dari Praktikum Mata Kuliah Pemrograman Web 1 , dengan fokus utama pada pembuatan layout web sederhana menggunakan HTML dan CSS.
-Melalui praktikum ini, saya belajar bagaimana cara mengatur struktur halaman menggunakan elemen-elemen semantik seperti:
+Praktikum ini bertujuan untuk mengenalkan dasar-dasar pemrograman JavaScript di dalam halaman web.
+Melalui berbagai contoh sederhana, saya belajar bagaimana JavaScript berinteraksi dengan elemen HTML untuk menampilkan teks, melakukan operasi logika dan aritmatika, mengelola input dari pengguna, serta memanipulasi elemen HTML secara dinamis menggunakan HTML DOM (Document Object Model).
 ```
 
 
