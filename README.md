@@ -11,7 +11,17 @@
 ## Deskripsi
 Praktikum ini bertujuan untuk mengenalkan dasar-dasar pemrograman JavaScript di dalam halaman web.
 Melalui berbagai contoh sederhana, saya belajar bagaimana JavaScript berinteraksi dengan elemen HTML untuk menampilkan teks, melakukan operasi logika dan aritmatika, mengelola input dari pengguna, serta memanipulasi elemen HTML secara dinamis menggunakan HTML DOM (Document Object Model).
-```
+
+## Tujuan Praktikum                                                         
+|                |                     
+| ------------------ | 
+| 1.	Memahami cara kerja dasar JavaScript pada halaman HTML.           |
+| 2.	Menggunakan JavaScript untuk menampilkan data dan pesan ke layar. |
+| 3.	Mempelajari operasi dasar seperti aritmatika serta seleksi kondisi (if-else & switch).                                                       |
+| 4.    Menggunakan form untuk mengambil dan mengolah input dari pengguna.|
+| 5. 	Memahami dasar manipulasi HTML DOM, termasuk penerapan event dan  | | checkbox dengan perhitungan otomatis.                                   |
+
+## Langkah-Langkah Praktikum
 
 
 
