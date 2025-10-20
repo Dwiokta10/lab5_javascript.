@@ -291,7 +291,27 @@ Pilihan menggunakan checkBox dengan perhitungan otomatis
 
 **OUTPUT**
 
+<img width="1920" height="1128" alt="Cuplikan layar 2025-10-20 235809" src="https://github.com/user-attachments/assets/8edf5f27-501c-45c2-b70a-7744334db290" />
 
+
+
+<img width="1920" height="1128" alt="Cuplikan layar 2025-10-20 235857" src="https://github.com/user-attachments/assets/d81de4af-bc34-44c7-9c96-60067f538895" />
+
+
+
+<img width="1920" height="1128" alt="Cuplikan layar 2025-10-20 235920" src="https://github.com/user-attachments/assets/7f0bd8fd-2778-4b3c-9d6a-4a105a6e8292" />
+
+
+
+<img width="1920" height="1128" alt="Cuplikan layar 2025-10-20 235950" src="https://github.com/user-attachments/assets/971e4112-d16c-48d9-8cd6-1ff3cb783f7f" />
+
+
+
+<img width="1920" height="1128" alt="Cuplikan layar 2025-10-21 000123" src="https://github.com/user-attachments/assets/bb88d207-e6b1-448d-89f8-62570aaa5d33" />
+
+
+
+<img width="1920" height="1128" alt="Cuplikan layar 2025-10-21 000643" src="https://github.com/user-attachments/assets/f4cda73c-28fe-415c-a1d6-01ba91a0958e" />
 
 ## Kesimpulan
 Dari praktikum ini, Saya belajar dasar-dasar pemrograman JavaScript di dalam halaman web, mulai dari menampilkan teks sederhana hingga memanipulasi elemen HTML secara dinamis. Melalui berbagai contoh seperti alert, prompt, operasi aritmatika, seleksi kondisi, form input, dan HTML DOM, saya memahami bahwa JavaScript sangat berperan penting dalam membuat halaman web menjadi interaktif dan dinamis, praktikum ini juga memberikan pemahaman awal mengenai bagaimana logika pemrograman, fungsi, dan event handling diterapkan langsung di dalam struktur HTML untuk menciptakan pengalaman pengguna yang lebih baik.
